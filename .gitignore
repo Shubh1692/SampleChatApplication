@@ -4,5 +4,7 @@
 node_modules/
 platforms/
 plugins/
+lib/
 .idea/
 .editorconfig
+
